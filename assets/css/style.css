@@ -235,10 +235,13 @@ header{
   transition: 0.3s;
   color: white;
   text-decoration: none;
+  padding: 1vw;
+  border: 1px solid white;
 }
 #MoreDevices a:hover{
-  color: red !important;
+  color: blue !important;
   text-decoration: none;
+  background: white;
 }
 #MoreDevices a span{
   /* color: white; */
